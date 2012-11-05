@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<string-array name="livewallpaper_model">
+		<item>"Classic"</item>
+		<item>"Loop"</item>
+	</string-array>
+
+	<string-array name="livewallpaper_model_prefix">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+
+	<string-array name="livewallpaper_block_style">
+		<item>"Color Block 20x20"</item>
+		<item>"Color Block 30x30"</item>
+		<item>"Color Block 40x40"</item>
+		<item>"Color Block 60x60"</item>
+	</string-array>
+
+	<string-array name="livewallpaper_block_style_prefix">
+		<item>20</item>
+		<item>30</item>
+		<item>40</item>
+		<item>60</item>
+	</string-array>
+	
+	<string-array name="livewallpaper_movement_style">
+		<item>"Top"</item>
+		<item>"Bottom"</item>
+		<item>"Left"</item>
+		<item>"Right"</item>
+	</string-array>
+
+	<string-array name="livewallpaper_movement_style_prefix">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+
+</resources>

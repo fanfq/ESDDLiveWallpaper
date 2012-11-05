@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+xmlns:android="http://schemas.android.com/apk/res/android"
+	android:title="@string/livewallpaper_settings"
+	android:key="livewallpaper_settings">
+                           
+	<ListPreference
+		android:key="livewallpaper_model"
+		android:title="@string/livewallpaper_model_title"
+		android:summary="@string/livewallpaper_model_summary"
+		android:entries="@array/livewallpaper_model"
+		android:entryValues="@array/livewallpaper_model_prefix"/>
+	
+	<ListPreference
+		android:key="livewallpaper_block_style"
+		android:title="@string/livewallpaper_block_title"
+		android:summary="@string/livewallpaper_block_summary"
+		android:entries="@array/livewallpaper_block_style"
+		android:entryValues="@array/livewallpaper_block_style_prefix"/>
+		
+	<ListPreference
+		android:key="livewallpaper_movement_style"
+		android:title="@string/livewallpaper_movement_title"
+		android:summary="@string/livewallpaper_movement_summary"
+		android:entries="@array/livewallpaper_movement_style"
+		android:entryValues="@array/livewallpaper_movement_style_prefix"/>
+	
+	<CheckBoxPreference android:key="livewallpaper_effect"
+		android:summary="@string/livewallpaper_effect_summary"
+		android:title="@string/livewallpaper_effect_title"
+		android:summaryOn="Opened effect pattern"
+		android:summaryOff="Closed effect pattern"/>
+	
+	<Preference
+		android:summary="@string/version_summary"
+		android:title="@string/version_title"/>
+	<Preference
+		android:summary="@string/contact_summary"
+		android:title="@string/contact_title"/>
+	
+</PreferenceScreen>
