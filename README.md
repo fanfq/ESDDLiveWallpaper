@@ -11,8 +11,8 @@ This is one of open source project from china
  * 增加30*30,60*60的color block选择项
 
 ####Preview####
-![image](https://github.com/fanfq/ESDDLiveWallpaper/blob/master/dist/screenshot_v1.1.png)
-![image](https://github.com/fanfq/ESDDLiveWallpaper/blob/master/dist/settings_v1.1.png)
+![image](https://raw.github.com/fanfq/ESDDLiveWallpaper/master/dist/screenshot_v1.1.png)
+![image](https://raw.github.com/fanfq/ESDDLiveWallpaper/master/dist/settings_v1.1.png)
 
 ####About Author####
  * 热爱手指在键盘上跳舞的感觉，朋友们都叫我键盘动物。
